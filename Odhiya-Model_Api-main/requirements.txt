@@ -8,8 +8,8 @@ cycler==0.11.0
 easydict==1.9
 Flask==2.0.3
 flatbuffers==2.0
-fonttools==4.29.1
 gunicorn==20.1.0
+fonttools==4.29.1
 gast==0.5.3
 google-auth==2.6.0
 google-auth-oauthlib==0.4.6
@@ -49,7 +49,6 @@ PyQt6-Charts==6.2.0
 PyQt6-DataVisualization==6.2.0
 PyQt6-NetworkAuth==6.2.0
 PyQt6-sip==13.1.0
-PyQt6-WebEngine==6.2.0
 pyquaternion==0.9.9
 python-dateutil==2.8.2
 requests==2.27.1
@@ -59,7 +58,7 @@ six==1.16.0
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
+tensorflow-cpu==2.8.0
 tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 tf-estimator-nightly==2.8.0.dev2021122109
